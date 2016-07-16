@@ -1,10 +1,10 @@
 {
-  "name": "linguacode-logger",
+  "name": "lingua-logger",
   "version": "0.1.0",
-  "description": "Logger tool for linguacode-api",
+  "description": "Logger tool for the LinguaCode's core",
   "main": "index.js",
-  "homepage": "https://github.com/LinguaCode/linguacode-logger",
-  "author": "Arman Yeghiazaryann <otanim617@gmail.com> (http://otanim.github.com)",
+  "homepage": "https://github.com/LinguaCode/lingua-logger",
+  "author": "Arman Yeghiazaryann <otanim617@gmail.com> (http://otanim.com)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LinguaCode/linguacode-logger"
@@ -15,10 +15,12 @@
   "license": "SEE LICENSE file",
   "keywords": [
     "linguacode-logger",
+    "lingua-logger",
     "linguacode-api",
     "linguacode",
     "lingua",
     "logger",
+    "core",
     "code"
   ],
   "dependencies": {
@@ -29,7 +31,7 @@
     "start": "node index.js"
   },
   "bugs": {
-    "url": "https://github.com/LinguaCode/linguacode-logger/issues"
+    "url": "https://github.com/LinguaCode/lingua-logger/issues"
   },
   "devDependencies": {
     "chai": "^3.5.0",
