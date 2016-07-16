@@ -1,4 +1,4 @@
-# Logger for [linguacode-api](https://github.com/LinguaCode/linguacode-api).
+# log
 
 ## Description
 **linguacode-logger** is a hyper recursive logging tool which helps to create simple charts for a complex hyper recursions.
