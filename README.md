@@ -50,7 +50,7 @@ logger.init()
 ### Code
 
 ```javascript
-var logger = require('linguacode-logger');
+var logger = require('log');
 
 console.llog('single');
 console.llog('1st level', 'begin');
