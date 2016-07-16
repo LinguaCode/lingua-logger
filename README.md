@@ -1,22 +1,22 @@
-# log
+# lingua-logger
 
 ## Description
-Package **log** is a hyper recursive logging tool which helps to create simple charts for a complex hyper recursions.
+Package **lingua-logger** is a hyper recursive logging tool which helps to create simple charts for a complex hyper recursions.
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/LinguaCode/linguacode-logger/master/screenshots/image.png)
+![Screenshot](https://raw.githubusercontent.com/LinguaCode/lingua-logger/master/screenshots/image.png)
 
 ## How to install
 
 ```sh
-$ npm install https://github.com/LinguaCode/linguacode-logger --save
+$ npm install https://github.com/LinguaCode/lingua-logger --save
 ```
 
 ### Usage
 
-##### require the **linguacode-logger** module.
+##### require the **lingua-logger** module.
 ```javascript
-var logger = require('linguacode-logger');
+var logger = require('lingua-logger');
 ```
 
 ##### prints single `message`.
@@ -77,4 +77,4 @@ single
 ```
 
 ##License
-LinguaCode is [licensed under GPLv3](https://github.com/LinguaCode/linguacode-logger/blob/master/LICENSE).
+LinguaCode is [licensed under GPLv3](https://github.com/LinguaCode/lingua-logger/blob/master/LICENSE).
